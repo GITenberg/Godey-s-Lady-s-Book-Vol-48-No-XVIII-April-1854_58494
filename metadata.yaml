@@ -1,11 +1,14 @@
 _repo: Godey-s-Lady-s-Book-Vol-48-No-XVIII-April-1854_58494
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor: &id001
     agent_name: Various
     alias: Verschillende
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 58494-h/images/coverpage.jpg
 creator:
   author: *id001
   editor:
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '49991'
     url: http://www.gutenberg.org/2009/agents/49991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58494#Godey-s-Lady-s-Book-Vol-48-No-XVIII-April-1854
 gutenberg_issued: '2018-12-19'
 gutenberg_type: Text
 identifiers:
