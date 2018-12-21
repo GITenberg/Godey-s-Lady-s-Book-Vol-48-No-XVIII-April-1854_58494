@@ -1,0 +1,27 @@
+_repo: Godey-s-Lady-s-Book-Vol-48-No-XVIII-April-1854_58494
+_version: 0.0.1
+contributor:
+  contributor: &id001
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+creator:
+  author: *id001
+  editor:
+    agent_name: Godey, L.
+    gutenberg_agent_id: '49991'
+    url: http://www.gutenberg.org/2009/agents/49991
+description: ''
+gutenberg_issued: '2018-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Godey's Lady's Book, Vol. 48, No. XVIII, April, 1854
+url: http://www.gutenberg.org/ebooks/58494
